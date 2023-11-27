@@ -361,11 +361,13 @@ textarea {
   .works {
     padding: 0;
   }
-  .card-cover{
+
+  .card-cover {
     width: 100%;
     display: flex;
-   flex-wrap: wrap;
+    flex-wrap: wrap;
   }
+
   .cards-cover .row {
     grid-template-columns: 1fr;
     row-gap: 0.5em;
